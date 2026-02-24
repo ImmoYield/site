@@ -62,8 +62,16 @@ content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='un
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["ImmoYield", "immobilier", "locatif"]
-description = "La rentabilité, mesurée"
+keywords = [
+  "analyse rentabilité locative",
+  "investissement immobilier par ville",
+  "rentabilité immobilière nette",
+  "tension locative",
+  "comparatif villes investissement",
+  "data immobilier France",
+  "étude marché immobilier local"
+]
+description = "ImmoYield fournit des rapports d’analyse immobilière par ville : rentabilité nette moyenne, tension locative, démographie et score synthétique pour comparer objectivement les marchés."
 author = "ImmoYield"
 image = "images/og-image.png"
 
