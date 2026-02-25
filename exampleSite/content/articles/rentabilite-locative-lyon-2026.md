@@ -24,7 +24,7 @@ Ce score est calculé à partir d’un modèle propriétaire basé sur :
 - Dynamique démographique
 - Niveau de risque locatif
 
-{{< notice "info" >}} Moyenne nationale des 50 plus grandes villes : 54,04 / 100 {{< /notice >}}
+{{< notice "info" >}} Moyenne nationale des 50 plus grandes villes : **54,04 / 100** {{< /notice >}}
 
 ---
 
