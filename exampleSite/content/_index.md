@@ -1,17 +1,17 @@
 ---
 # Banner
 banner:
-  title: "Analysez une ville avant d’investir."
+  title: "🔍 Analysez une ville avant d’investir."
   content: "ImmoYield fournit des rapports immobiliers structurés et factuels pour évaluer le potentiel locatif d’une ville : rentabilité nette moyenne, tension locative, démographie et scoring synthétique."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Voir les rapports"
+    label: "Voir les rapports 👉"
     link: "https://payhip.com/ImmoYield"
 
 # Features
 features:
-  - title: "Rentabilité nette moyenne"
+  - title: "🗂️ Rentabilité nette moyenne"
     image: "/images/service-1.png"
     content: "Estimation consolidée du rendement locatif basée sur des données structurées. Objectif : fournir une vision réaliste, exploitable."
     bulletpoints:
@@ -23,7 +23,7 @@ features:
       label: ""
       link: ""
 
-  - title: "Tension locative"
+  - title: "💡 Tension locative"
     image: "/images/service-2.png"
     content: "Indicateur synthétique mesurant la facilité à louer un bien sur la zone analysée."
     bulletpoints:
@@ -35,7 +35,7 @@ features:
       label: ""
       link: ""
 
-  - title: "Données démographiques"
+  - title: "🏠 Données démographiques"
     image: "/images/service-3.png"
     content: "Population totale, dynamique démographique et structure globale pour contextualiser l’attractivité."
     bulletpoints:
@@ -47,7 +47,7 @@ features:
       label: ""
       link: ""
 
-  - title: "Score ImmoYield"
+  - title: "🎯 Score ImmoYield"
     image: "/images/call-to-action.png"
     content: "Score pondéré intégrant rentabilité, population et tension locative pour classer objectivement les villes."
     bulletpoints:
