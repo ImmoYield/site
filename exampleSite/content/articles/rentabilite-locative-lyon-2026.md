@@ -24,7 +24,7 @@ Ce score est calculé à partir d’un modèle propriétaire basé sur :
 - Dynamique démographique
 - Niveau de risque locatif
 
-> Moyenne nationale des 50 plus grandes villes : 54,04 / 100
+{{< notice "info" >}} Moyenne nationale des 50 plus grandes villes : 54,04 / 100 {{< /notice >}}
 
 ---
 
@@ -38,7 +38,7 @@ Ce score est calculé à partir d’un modèle propriétaire basé sur :
 | Cashflow estimé (scénario standard) | - 484 € |
 | Tension locative | Forte |
 
-> Hypothèses : financement 20 ans, taux actuels (3,70% assurance incluse), 10% d’apport, frais de notaire inclus, charges standards.
+{{< notice "note" >}} Hypothèses : financement 20 ans, taux actuels (3,70% assurance incluse), 10% d’apport, frais de notaire inclus, charges standards. {{< /notice >}}
 
 ---
 
@@ -103,7 +103,7 @@ Le rapport complet inclut :
 - Synthèse décisionnelle
 - Version datée et mise à jour
 
-[👉 Voir le rapport complet](https://payhip.com/ImmoYield)
+{{< button label="👉 Voir le rapport complet" link="https://payhip.com/ImmoYield" style="solid" >}}
 
 ---
 
