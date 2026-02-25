@@ -13,6 +13,11 @@ weight = 2
 
 # footer menu
 [[footer]]
-name = "About"
-url = "/about"
+name = "Articles"
+url = "/articles"
+weight = 1
+
+[[footer]]
+name = "Liste des rapports"
+url = "https://payhip.com/ImmoYield"
 weight = 1
