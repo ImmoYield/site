@@ -60,6 +60,7 @@ features:
       link: ""
 
   - title: "📘 Voir un exemple avant d’acheter"
+    image: "/images/service-2.png"
     content: "Analysez concrètement la méthodologie, les tableaux comparatifs et le scoring ImmoYield. Transparence totale avant engagement."
     button:
       enable: true
