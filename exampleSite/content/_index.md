@@ -58,4 +58,11 @@ features:
       enable: false
       label: ""
       link: ""
+
+  - title: "📘 Voir un exemple avant d’acheter"
+    content: "Analysez concrètement la méthodologie, les tableaux comparatifs et le scoring ImmoYield. Transparence totale avant engagement."
+    button:
+      enable: true
+      label: "Télécharger gratuitement 👉"
+      link: "https://mailchi.mp/beaf16012ecb/gate"
 ---
