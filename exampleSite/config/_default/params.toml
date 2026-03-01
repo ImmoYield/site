@@ -57,7 +57,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 15
-content = "<span class='text-center block'>🚀 Offre de lancement : 25% de reduction sur nos rapports jusqu'au 15/03/2026 ! <a class='underline' href='https://payhip.com/ImmoYield' target='_blank' rel='noopener'>J'en profite !</a> 🚀</span>"
+content = "<span class='text-center block'>🚀 Offre de lancement : 25% de reduction sur nos rapports jusqu'au 31/03/2026 ! <a class='underline' href='https://payhip.com/ImmoYield' target='_blank' rel='noopener'>J'en profite !</a> 🚀</span>"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
