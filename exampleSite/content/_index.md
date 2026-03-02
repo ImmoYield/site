@@ -59,11 +59,11 @@ features:
       label: ""
       link: ""
 
-  - title: "📘 Voir un exemple avant d’acheter"
+  - title: "📘 Avant d’investir en 2026, lisez ceci"
     image: "/images/service-2.png"
-    content: "Analysez concrètement la méthodologie, les tableaux comparatifs et le scoring ImmoYield. Transparence totale avant engagement."
+    content: "Les 5 plus grandes villes françaises passées au scanner : laquelle est réellement la plus rentable en 2026 ?"
     button:
       enable: true
-      label: "Télécharger gratuitement 👉"
+      label: "Téléchargez l’analyse gratuite 👉"
       link: "https://mailchi.mp/beaf16012ecb/gate"
 ---
