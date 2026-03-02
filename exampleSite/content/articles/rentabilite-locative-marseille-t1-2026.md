@@ -1,7 +1,7 @@
 ---
 title: "Rentabilité locative à Marseille au T1 2026 : analyse complète"
 description: "Analyse détaillée de la rentabilité locative à Marseille au T1 2026 : prix au m², loyers moyens, rendement brut et net, cashflow estimé et comparaison nationale."
-date: 2026-03-31
+date: 2026-03-01
 draft: false
 ---
 
