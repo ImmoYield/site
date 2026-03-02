@@ -1,23 +1,13 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "instagram",
-      "icon": "fab fa-instagram",
-      "link": "https://www.instagram.com/immoyield/"
-    },
-    {
-      "name": "reddit",
-      "icon": "fab fa-reddit",
-      "link": "https://www.reddit.com/user/ImmoYield/"
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://x.com/ImmoYield"
     },
     {
       "name": "payhip",
-      "icon": "fab fa-shopping-cart",
+      "icon": "fab fa-shopify",
       "link": "https://payhip.com/ImmoYield"
     }
   ]
