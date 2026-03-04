@@ -101,7 +101,7 @@ Cette standardisation permet une comparaison objective, au-delà de l’attracti
 
 ---
 
-# 📘 Rapport complet : Top 50 villes françaises – T1 2026
+# 📘 Rapport standard : Top 25 villes françaises – T1 2026
 
 Le rapport intégral comprend :
 
@@ -111,7 +111,7 @@ Le rapport intégral comprend :
 - Synthèse décisionnelle exploitable
 - Version trimestrielle mise à jour
 
-{{< button label="👉 Voir le rapport standard" link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Voir le rapport standard" link="https://shop.immoyield.fr/b/standard-2026" style="solid" >}}
 
 ---
 
@@ -135,7 +135,7 @@ Dans le rapport Premium, chaque ville inclut :
 La page actuelle fournit une synthèse standardisée.  
 Le rapport Premium permet une comparaison décisionnelle complète.
 
-{{< button label="👉 Voir le rapport premium" link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Voir le rapport premium" link="https://shop.immoyield.fr/b/premium-2026" style="solid" >}}
 
 ---
 

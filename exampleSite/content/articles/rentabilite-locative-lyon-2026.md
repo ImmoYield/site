@@ -103,7 +103,7 @@ Le rapport complet inclut :
 - Synthèse décisionnelle
 - Version datée et mise à jour
 
-{{< button label="👉 Voir le rapport complet" link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Voir le rapport complet" link="https://shop.immoyield.fr" style="solid" >}}
 
 ---
 

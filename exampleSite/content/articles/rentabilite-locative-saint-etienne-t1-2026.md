@@ -109,7 +109,7 @@ Le rapport intégral comprend :
 - Synthèse décisionnelle
 - Version trimestrielle T1 2026
 
-{{< button label="👉 Voir le rapport complet" link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Voir le rapport complet" link="https://shop.immoyield.fr" style="solid" >}}
 
 ---
 

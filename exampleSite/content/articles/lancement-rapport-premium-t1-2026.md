@@ -19,7 +19,7 @@ Et pour célébrer cette évolution :
 > 🎉 **L’offre de lancement est prolongée jusqu’au 31 mars 2026**  
 > Profitez de **-25 % sur tous nos rapports** pendant encore 1 mois.
 
-{{< button label="👉 Consulte nos rapports et profite de l’offre avant le 31 mars 2026." link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Consulte nos rapports et profite de l’offre avant le 31 mars 2026." link="https://shop.immoyield.fr" style="solid" >}}
 
 ---
 
@@ -206,7 +206,7 @@ ImmoYield t’aide à objectiver ces décisions.
 
 # 📥 Accéder aux rapports
 
-{{< button label="👉 Consulte nos rapports et profite de l’offre avant le 31 mars 2026." link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Consulte nos rapports et profite de l’offre avant le 31 mars 2026." link="https://shop.immoyield.fr" style="solid" >}}
 
 ---
 

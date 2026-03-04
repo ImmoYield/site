@@ -112,7 +112,7 @@ Le rapport intégral comprend :
 - Synthèse décisionnelle exploitable
 - Version trimestrielle mise à jour
 
-{{< button label="👉 Voir le rapport complet" link="https://payhip.com/ImmoYield" style="solid" >}}
+{{< button label="👉 Voir le rapport complet" link="https://shop.immoyield.fr" style="solid" >}}
 
 ---
 

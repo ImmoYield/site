@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Voir les rapports 👉"
-    link: "https://payhip.com/ImmoYield"
+    link: "https://shop.immoyield.fr"
 
 # Features
 features:
