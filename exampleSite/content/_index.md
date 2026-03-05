@@ -48,7 +48,7 @@ features:
       link: ""
 
   - title: "🎯 Score ImmoYield"
-    image: "/images/call-to-action.png"
+    image: "/images/service-1.png"
     content: "Score pondéré intégrant rentabilité, population et tension locative pour classer objectivement les villes."
     bulletpoints:
       - "Méthodologie pondérée"
@@ -58,12 +58,4 @@ features:
       enable: false
       label: ""
       link: ""
-
-  - title: "📘 Avant d’investir en 2026, lisez ceci"
-    image: "/images/service-2.png"
-    content: "Les 5 plus grandes villes françaises passées au scanner : laquelle est réellement la plus rentable en 2026 ?"
-    button:
-      enable: true
-      label: "Téléchargez l’analyse gratuite 👉"
-      link: "https://mailchi.mp/beaf16012ecb/gate"
 ---
