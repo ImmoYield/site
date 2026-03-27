@@ -6,6 +6,11 @@
       "link": "https://x.com/ImmoYield"
     },
     {
+      "name": "reddit",
+      "icon": "fab fa-reddit",
+      "link": "https://www.reddit.com/user/ImmoYield/"
+    },
+    {
       "name": "shop",
       "icon": "fab fa-shopify",
       "link": "https://shop.immoyield.fr"
