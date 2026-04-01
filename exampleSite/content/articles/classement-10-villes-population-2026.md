@@ -73,7 +73,7 @@ Marseille se démarque avec le meilleur score ImmoYield du classement.
 - bonne tension locative
 - rentabilité moins dégradée que les autres grandes villes
 
-👉 Voir l'analyse complète : [/articles/rentabilite-locative-marseille-t1-2026/](Analyse locative Mareille T1 2026)
+👉 Voir l'analyse complète : [Analyse locative Mareille T1 2026](/articles/rentabilite-locative-marseille-t1-2026/)
 
 ---
 
@@ -85,7 +85,7 @@ Montpellier combine plusieurs avantages :
 - tension locative élevée
 - rendement plus équilibré
 
-👉 Voir l'analyse complète : [/articles/rentabilite-locative-montpellier-t1-2026/](Analyse locative Montpellier T1 2026)
+👉 Voir l'analyse complète : [Analyse locative Montpellier T1 2026](/articles/rentabilite-locative-montpellier-t1-2026/)
 
 ---
 
@@ -97,7 +97,7 @@ Lille fait partie des marchés les plus intéressants :
 - bonne demande locative
 - cashflow proche de l'équilibre
 
-👉 Voir l'analyse complète : [/articles/rentabilite-locative-lille-t1-2026/](Analyse locative Lille T1 2026)
+👉 Voir l'analyse complète : [Analyse locative Lille T1 2026](/articles/rentabilite-locative-lille-t1-2026/)
 
 ---
 
@@ -146,7 +146,9 @@ Tout dépend de votre stratégie.
 
 ## Aller plus loin
 
-Pour identifier les meilleures opportunités, il est essentiel d'aller au-delà des grandes villes et d'analyser les marchés en détail.
+Pour identifier les meilleures opportunités, il est essentiel d'aller au-delà des grandes villes et d'analyser les marchés en détail. Nous proposons deux rapports chez Immoyield :
+
+{{< button label="👉 Voir le rapport standard (comparatif 25 villes)" link="https://shop.immoyield.fr/b/standard-2026" style="solid" >}}
 
 {{< button label="👉 Accéder au rapport Premium (50 villes + projections)" link="https://shop.immoyield.fr/b/premium-2026" style="solid" >}}
 
