@@ -55,7 +55,7 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 15
 content = "<span class='text-center block'>🚀 Offre de lancement : 25% de reduction sur nos rapports jusqu'au 31/03/2026 ! <a class='underline' href='https://shop.immoyield.fr' target='_blank' rel='noopener'>J'en profite !</a> 🚀</span>"
 
