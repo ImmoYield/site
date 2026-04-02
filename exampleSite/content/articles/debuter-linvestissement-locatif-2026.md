@@ -279,7 +279,6 @@ Avec un **rapport ImmoYield**, tu peux :
 - Rennes → plus sécurisé mais moins rentable
 
 {{< button label="👉 Voir le rapport standard (comparatif 25 villes)" link="https://shop.immoyield.fr/b/standard-2026" style="solid" >}}
-
 {{< button label="👉 Accéder au rapport Premium (50 villes + projections)" link="https://shop.immoyield.fr/b/premium-2026" style="solid" >}}
 {{< /notice >}}
 

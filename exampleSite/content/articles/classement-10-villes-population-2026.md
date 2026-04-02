@@ -146,7 +146,7 @@ Tout dépend de votre stratégie.
 
 ## Aller plus loin
 
-Pour identifier les meilleures opportunités, il est essentiel d'aller au-delà des grandes villes et d'analyser les marchés en détail. Nous proposons deux rapports chez Immoyield :
+Pour identifier les meilleures opportunités, il est essentiel d'aller au-delà des grandes villes et d'analyser les marchés en détail. Nous proposons deux rapports chez ImmoYield :
 
 {{< button label="👉 Voir le rapport standard (comparatif 25 villes)" link="https://shop.immoyield.fr/b/standard-2026" style="solid" >}}
 
