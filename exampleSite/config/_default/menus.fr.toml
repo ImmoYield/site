@@ -21,3 +21,8 @@ weight = 1
 name = "Liste des rapports"
 url = "https://shop.immoyield.fr"
 weight = 1
+
+[[footer]]
+name = "FAQ"
+url = "/faq"
+weight = 1
