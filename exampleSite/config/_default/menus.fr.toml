@@ -11,6 +11,11 @@ name = "Articles"
 url = "/articles"
 weight = 2
 
+[[main]]
+name = "Calculateur"
+url = "https://app.immoyield.fr"
+weight = 3
+
 # footer menu
 [[footer]]
 name = "Articles"
@@ -25,4 +30,9 @@ weight = 1
 [[footer]]
 name = "FAQ"
 url = "/faq"
+weight = 1
+
+[[footer]]
+name = "Calculateur ImmoYield"
+url = "https://app.immoyield.fr"
 weight = 1
