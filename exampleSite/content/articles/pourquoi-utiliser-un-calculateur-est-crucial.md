@@ -117,7 +117,7 @@ En pratique, quelques informations suffisent pour obtenir une analyse exploitabl
 
 Les résultats doivent ensuite être lus comme un tableau de bord. Le rendement, le cashflow, les indicateurs au mètre carré ou encore un score synthétique permettent de se positionner rapidement. Ce type de synthèse est particulièrement utile lorsqu'on analyse plusieurs biens en parallèle et qu'il faut prioriser.
 
-{{< image src="images/immoyield-analyse.png" caption="Analyse avec le calculateur ImmoYield" alt="Analyse avec le calculateur ImmoYield" height="600" width="" position="center" command="fit" option="q100" class="img-fluid" title="Analyse ImmoYield" webp="false" zoomable="true" >}}
+{{< image src="images/immoyield-analyse.png" caption="Analyse avec le calculateur ImmoYield" alt="Analyse avec le calculateur ImmoYield" height="600" width="800" position="center" command="fit" option="q100" class="img-fluid" title="Analyse ImmoYield" webp="false" zoomable="true" >}}
 
 ---
 
@@ -171,6 +171,6 @@ Au final, la valeur d'un simulateur tient dans sa capacité à transformer une s
 
 ## Aller plus loin
 
-- Comprendre la rentabilité locative
-- Voir les villes les plus rentables
-- Tester le simulateur ImmoYield
+- [Comprendre la rentabilité locative](/articles/comment-calculer-rentabilite-locative/)
+- [Voir les 10 villes les plus rentables](/articles/classement-10-villes-rentables-2026/)
+- [Tester le simulateur ImmoYield](https://app.immoyield.fr)
