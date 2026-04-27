@@ -117,7 +117,9 @@ En pratique, quelques informations suffisent pour obtenir une analyse exploitabl
 
 Les résultats doivent ensuite être lus comme un tableau de bord. Le rendement, le cashflow, les indicateurs au mètre carré ou encore un score synthétique permettent de se positionner rapidement. Ce type de synthèse est particulièrement utile lorsqu'on analyse plusieurs biens en parallèle et qu'il faut prioriser.
 
-{{< image src="images/immoyield-analyse.png" caption="Analyse avec le calculateur ImmoYield" alt="Analyse avec le calculateur ImmoYield" height="600" width="800" position="center" command="fit" option="q100" class="img-fluid" title="Analyse ImmoYield" webp="false" zoomable="true" >}}
+Une démonstration de l'analyseur en live, avec la vue simple, et la vue avancée :
+
+{{< gallery dir="images/immoyield-analyse-gallery" class="" height="500" width="500" webp="true" command="Fit" option="" zoomable="true" >}}
 
 ---
 
