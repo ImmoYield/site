@@ -21,6 +21,10 @@ Entre le prix du bien, les loyers, le financement, les travaux et la fiscalité,
 
 C'est précisément ce problème qui a conduit au développement d'ImmoYield.
 
+> Une vidéo est bien plus parlante qu'un article entier, alors voici une présentation du calculateur ImmoYield
+
+{{< youtube u8rV4Y84mLk >}}
+
 ---
 
 ## Le point de départ
